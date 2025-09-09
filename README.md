@@ -23,13 +23,7 @@
 - ✨ Siempre busco crecer como persona y como desarrollador.  
 - 🐶 Dato curioso: tengo un French Poodle que me acompaña mientras programo.  
 
-<br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Profile%20views&color=0047AB&style=plastic&count=11" alt="TuUsuario" height=25px width=180px/> 
-</p>
-
-<br>
 
 ## 📊 Estadísticas de GitHub
 

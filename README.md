@@ -9,10 +9,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Profile%20views&color=0047AB&style=plastic?" alt="TuUsuario" height=25px, width=160px/> 
-</p>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -24,6 +20,12 @@
 - 🤝 Disfruto trabajar en equipo y compartir ideas.  
 - ✨ Siempre busco crecer como persona y como desarrollador.  
 - 🐶 Dato curioso: tengo un French Poodle que me acompaña mientras programo.  
+
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Profile%20views&color=0047AB&style=plastic&count=20" alt="TuUsuario" height=25px width=180px/> 
+</p>
 
 <br>
 

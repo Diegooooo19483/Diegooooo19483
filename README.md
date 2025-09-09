@@ -26,7 +26,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Profile%20views&color=0047AB&style=plastic&count=20" alt="TuUsuario" height=25px width=180px/> 
+	<img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Profile%20views&color=0047AB&style=plastic&count=11" alt="TuUsuario" height=25px width=180px/> 
 </p>
 
 <br>
@@ -46,7 +46,7 @@
 ## 🤝 Conecta conmigo  
 
 <p align="center">
-<a href="mailto:tuemail@example.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" /></a>
+<a href="mailto:diegoalejandro990420@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" /></a>
 </p>
 
 ---

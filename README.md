@@ -8,9 +8,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW02bWhra28zcG9wMTRwMjVuMWRiMXM5cnZmMjU3NzdiM3FldnU4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYh2E1meNXAFa/giphy.gif" width="250">
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+Tecnología;Me+gusta+aprender+y+crear+proyectos;Siempre+buscando+mejorar"></a>
-</p>
+
 
 <br>
 
